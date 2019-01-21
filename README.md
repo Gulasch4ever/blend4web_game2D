@@ -144,42 +144,39 @@ function makeDup() {
 ```
 
 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-Lösung 
+# Lösung 
 Schau dir die Lösung nur an wenn du nicht weiterkommst !!!
 ```javascript
 "use strict"
